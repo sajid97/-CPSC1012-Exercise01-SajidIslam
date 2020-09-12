@@ -1,0 +1,13 @@
+E:\Users\sajid\source\repos\CPSC1012-Exercise01-SajidIslam\CPSC1012-Exercise01-SajidIslam\obj\Debug\netcoreapp3.1\CPSC1012-Exercise01-SajidIslam.csprojAssemblyReference.cache
+E:\Users\sajid\source\repos\CPSC1012-Exercise01-SajidIslam\CPSC1012-Exercise01-SajidIslam\obj\Debug\netcoreapp3.1\CPSC1012-Exercise01-SajidIslam.AssemblyInfoInputs.cache
+E:\Users\sajid\source\repos\CPSC1012-Exercise01-SajidIslam\CPSC1012-Exercise01-SajidIslam\obj\Debug\netcoreapp3.1\CPSC1012-Exercise01-SajidIslam.AssemblyInfo.cs
+E:\Users\sajid\source\repos\CPSC1012-Exercise01-SajidIslam\CPSC1012-Exercise01-SajidIslam\obj\Debug\netcoreapp3.1\CPSC1012-Exercise01-SajidIslam.csproj.CoreCompileInputs.cache
+E:\Users\sajid\source\repos\CPSC1012-Exercise01-SajidIslam\CPSC1012-Exercise01-SajidIslam\bin\Debug\netcoreapp3.1\CPSC1012-Exercise01-SajidIslam.exe
+E:\Users\sajid\source\repos\CPSC1012-Exercise01-SajidIslam\CPSC1012-Exercise01-SajidIslam\bin\Debug\netcoreapp3.1\CPSC1012-Exercise01-SajidIslam.deps.json
+E:\Users\sajid\source\repos\CPSC1012-Exercise01-SajidIslam\CPSC1012-Exercise01-SajidIslam\bin\Debug\netcoreapp3.1\CPSC1012-Exercise01-SajidIslam.runtimeconfig.json
+E:\Users\sajid\source\repos\CPSC1012-Exercise01-SajidIslam\CPSC1012-Exercise01-SajidIslam\bin\Debug\netcoreapp3.1\CPSC1012-Exercise01-SajidIslam.runtimeconfig.dev.json
+E:\Users\sajid\source\repos\CPSC1012-Exercise01-SajidIslam\CPSC1012-Exercise01-SajidIslam\bin\Debug\netcoreapp3.1\CPSC1012-Exercise01-SajidIslam.dll
+E:\Users\sajid\source\repos\CPSC1012-Exercise01-SajidIslam\CPSC1012-Exercise01-SajidIslam\bin\Debug\netcoreapp3.1\CPSC1012-Exercise01-SajidIslam.pdb
+E:\Users\sajid\source\repos\CPSC1012-Exercise01-SajidIslam\CPSC1012-Exercise01-SajidIslam\obj\Debug\netcoreapp3.1\CPSC1012-Exercise01-SajidIslam.dll
+E:\Users\sajid\source\repos\CPSC1012-Exercise01-SajidIslam\CPSC1012-Exercise01-SajidIslam\obj\Debug\netcoreapp3.1\CPSC1012-Exercise01-SajidIslam.pdb
+E:\Users\sajid\source\repos\CPSC1012-Exercise01-SajidIslam\CPSC1012-Exercise01-SajidIslam\obj\Debug\netcoreapp3.1\CPSC1012-Exercise01-SajidIslam.genruntimeconfig.cache
